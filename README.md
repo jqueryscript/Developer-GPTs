@@ -1,4 +1,4 @@
-# Developer-GPTs
+# Developer GPTs
 A collection of Custom GPTs for web &amp; mobile developers.
 
  - [JavaScript GPT](https://chat.openai.com/g/g-3hPVaxsWp-javascript-gpt) - Your go-to expert for all things JavaScript, Node.js, TypeScript, jQuery, React, Vue, and Angular, ready to guide learners at any level with ease and insight.
