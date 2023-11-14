@@ -7,5 +7,7 @@ A collection of Custom GPTs for web &amp; mobile developers.
  - [CSS GPT](https://chat.openai.com/g/g-VoebbyLGo-css-gpt) - A specialist in CSS and preprocessors, offering guidance and tips with a patient demeanor.
  - [Code Formatter and Minifier GPT](https://chat.openai.com/g/g-ytgIw9skn-code-formatter-and-minifier-gpt) - Expert in formatting, beautifying and minifying code.
  - [Data Transformer GPT](https://chat.openai.com/g/g-sYraiicH4-data-transformer-gpt) - File Conversion Specialist: XML, JSON, CSV, YAML, etc.
- - [RegEx GPT](https://chat.openai.com/g/g-Acs23Ncxe-regex-gpt) - Specialist in regular expressions, explaining symbols clearly
+ - [RegEx GPT](https://chat.openai.com/g/g-Acs23Ncxe-regex-gpt) - Specialist in regular expressions, explaining symbols clearly.
+ - [Lorem Ipsum GPT](https://chat.openai.com/g/g-49fOOlhH5-lorem-ipsum-gpt) - Generates customized Lorem Ipsum text.
+ - [Code Validator Pro](https://chat.openai.com/g/g-NJIo9QiU4-code-validator-pro) - Friendly JSON, HTML, XML validator with detailed advice.
  - More GPTs are coming soon.
